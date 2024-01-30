@@ -24,3 +24,4 @@
         generateValue: true
       - key: APP_KEYS
         generateValue: true
+        
