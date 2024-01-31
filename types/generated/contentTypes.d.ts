@@ -368,7 +368,7 @@ export interface ApiBlogBlog extends Schema.CollectionType {
     singularName: 'blog';
     pluralName: 'blogs';
     displayName: 'Blogs';
-    description: '';
+    description: 'Blog cms';
   };
   options: {
     draftAndPublish: true;
